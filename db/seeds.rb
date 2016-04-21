@@ -1,0 +1,8 @@
+user_1 = User.create(name: 'Alvaro Castillo', email: 'alvaro@something.com')
+user_2 = User.create(name: 'Faraz Patankar', email: 'faraz@something.com')
+user_3 = User.create(name: 'Sarah Abogabir', email: 'sarah@something.com')
+user_4 = User.create(name: 'Carlos Cardo', email: 'carlos@something.com')
+user_5 = User.create(name: 'Josh Alexy', email: 'josh@something.com')
+user_6 = User.create(name: 'Andreza Feu', email: 'andreza@something.com')
+user_7 = User.create(name: 'Reyna Garcia', email: 'reyna@something.com')
+user_8 = User.create(name: 'Gael Guzman-Medrano', email: 'gael@something.com')
